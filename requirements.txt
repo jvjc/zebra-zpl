@@ -1,0 +1,5 @@
+Pillow==8.1.2
+pycups==2.0.1
+qrcode==6.1
+six==1.15.0
+zplgrf==1.6.0
